@@ -13,4 +13,6 @@ describe BikeContainer do
 		holder.dock(bike)
 		expect(holder.bike_count).to eq 1 
 	end 
+
+	
 end 
